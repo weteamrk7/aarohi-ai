@@ -83,4 +83,4 @@ aarohi_voice_assistant/
 ---
 
 ## 🌟 WE TEAM RK7
-Created and designed under the leadership of **Rohith Krishna**, Founder & CEO of WE TEAM RK7.
+Created and designed under the leadership of **Rohith Krishna**.

@@ -1,7 +1,7 @@
 """
 ====================================================================
   AAROHI - AI Voice Assistant (WE TEAM RK7)
-  Founder & CEO: Rohith Krishna (WE TEAM RK7)
+  Author: Rohith Krishna
   Enhanced & Production-Ready Voice Assistant with Dual Input Mode
 ====================================================================
 """
